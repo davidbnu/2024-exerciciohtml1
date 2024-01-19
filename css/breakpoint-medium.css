@@ -24,8 +24,8 @@
         gap: 1rem;
     }
 
-    .publicacoes__artigo__lista li {
-        width: 90%;
+    .publicacoes__artigo__lista a {
+        width: 500px;
         text-align: center;
         border-radius: 5px;
     }

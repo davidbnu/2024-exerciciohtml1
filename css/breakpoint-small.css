@@ -32,4 +32,8 @@
         padding: 1rem 0;
     }
 
+    .publicacoes__artigo__lista a {
+        width: 300px;
+    }
+
 }
